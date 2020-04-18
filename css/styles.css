@@ -138,9 +138,41 @@ hr{
   h2{
     font-size: 4rem;
   }
-  /* p{
+  h3{
+    font-size: x-large;
+  }
+  p{
+    font-size: large;
+  }
+  a{
     font-size: 2rem;
-  } */
+  }
+  .intro{
+    font-size: 2rem;
+    width: 40%;
+  }
+
+  .skill-image{
+width: 35%
+  }
+
+  .skill-row{
+    width: 50%;
+    margin: 100px auto 200px auto;
+    line-height: 2;
+}
+
+.button{
+  font-size: 30px;
+}
+
+.bottom-container{
+  padding: 60px 0px 30px;
+}
+.copywrite-text{
+  font-size: 1.2rem;
+}
+
 }
 
 
