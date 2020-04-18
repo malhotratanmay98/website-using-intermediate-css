@@ -131,6 +131,19 @@ hr{
 }
 
 
+@media (max-width:1080px){
+  body{
+    width: 1280px;
+  }
+  h2{
+    font-size: 4rem;
+  }
+  /* p{
+    font-size: 2rem;
+  } */
+}
+
+
 .button {                      /*this button is properties are taken from css3 button generator*/
   font-family: 'Montserrat', sans-serif;
   color: #FFFFFF !important;
